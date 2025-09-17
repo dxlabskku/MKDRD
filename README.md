@@ -7,8 +7,8 @@ This repository contains the ground truth dataset from our research paper "MKDRD
 MKDRD is the first large-scale multi-modal Korean dataset specifically designed for detecting deceptive reviews.
 This ground truth dataset contains 963 human-annotated Korean restaurant reviews from Naver Blog, carefully labeled and processed through rigorous annotation procedures.
 You can receive text, images and metadata about our dataset.
-Due to privacy concerns, original images are not provided. 
-Instead, we provide embedding file through a Google Drive URL.
+Due to privacy concerns, original text and images are not provided. 
+Instead, we provide embedding files through a Google Drive URL.
 
 ## Architecture
 <img src="https://github.com/user-attachments/assets/44078340-910a-4da5-9db2-51f88f89549e" alt="figure-model2" style="width: 70%; max-width: 800px;" />
